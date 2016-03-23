@@ -1,0 +1,11 @@
+{
+  "name": "tdstruct",
+  "version": "0.1.0",
+  "description": "Utility for tripledollar structure",
+  "main": "tdstruct.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "steenk",
+  "license": "MIT"
+}
