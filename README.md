@@ -20,7 +20,7 @@ var tds = ['html',
   ]
 ];
 
-console.log(tdstruct.toHtml(td));
+console.log(tdstruct.toHtml(tds));
 ```
 
 
